@@ -1,20 +1,12 @@
 <h1 align="center">👋 Olá! Eu sou a Ana Clara</h1>
 
 <div align="left">
- 
-<img
-  align="right"
-  height="180"
-  src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=anaclarasantos-dev&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
-/>
+
 
 
 👩‍🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no 3º semestre  
 🖥️ **Foco em Desenvolvimento e Programação**  
 🚀 **Em busca de oportunidade de estágio para crescer na área**
-
-
-
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-oliveira-05697a1b3" target="_blank">
@@ -26,6 +18,11 @@
   </a>
 </p>
 </div>
+ 
+<img
+  height="180"
+  src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=anaclarasantos-dev&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+/>
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2>
 
