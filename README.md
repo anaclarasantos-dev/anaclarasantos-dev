@@ -2,12 +2,19 @@
 
 <div align="left">
  
+<img
+  align="right"
+  height="180"
+  src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=anaclarasantos-dev&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
+/>
 
- 👩‍🎓 Estudante de Análise e Desenvolvimento de Sistemas no 3º semestre
- </br>
- 🖥️ Foco em Desenvolvimento e Programação
- </br>
-🚀 Em busca de oportunidade de estágio para crescer na área
+
+👩‍🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no 3º semestre  
+🖥️ **Foco em Desenvolvimento e Programação**  
+🚀 **Em busca de oportunidade de estágio para crescer na área**
+
+
+
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ana-oliveira-05697a1b3" target="_blank">
@@ -50,6 +57,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anaclarasantos-dev/anaclarasantos-dev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anaclarasantos-dev/anaclarasantos-dev/output/pacman-contribution-graph.svg">
 </picture>
+
 
 
 
