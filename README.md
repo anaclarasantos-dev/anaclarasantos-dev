@@ -52,6 +52,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anaclarasantos-dev/anaclarasantos-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-
-
+<!--
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=anaclarasantos-dev.anaclarasantos-dev&"  />
+</div>-->
 
