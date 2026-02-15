@@ -3,9 +3,19 @@
 <h1 align="center">👋 Olá! Eu sou a Ana Clara</h1>
 <!-- Descrição-->
 
-👩‍🎓 **Estudante de Análise e Desenvolvimento de Sistemas** no 3º semestre  
-🖥️ **Foco em Desenvolvimento e Programação**  
-🚀 **Em busca de oportunidade de estágio para crescer na área**
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)
+
+💻 Desenvolvedora Full Stack em formação
+
+⚙️ Experiência com:
+
+- Frontend: HTML, CSS, JavaScript, React, Bootstrap
+- Backend: Node.js, Express, APIs REST
+- Banco de dados: MySQL / SQL
+- Autenticação: JWT
+- CRUD completo de aplicações
+  
+Buscando oportunidade de estágio para crescer na área de desenvolvimento
 
 <!-- Rede sociais -->
 
@@ -18,10 +28,10 @@
 </p>
 
  <!-- Github status (linguagens mais usadas) -->
-<img
+<!-- <img
   height="180"
   src="https://github-readme-stats-eight-nu-11.vercel.app/api/top-langs?username=anaclarasantos-dev&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br"
-/>
+/>-->
 
 <h2 align="center">🤖 Linguagens e Tecnologias</h2>
 <div align="center">
