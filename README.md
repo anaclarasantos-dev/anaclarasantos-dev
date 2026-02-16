@@ -12,7 +12,7 @@
 - Frontend: HTML, CSS, JavaScript, React, Bootstrap
 - Backend: Node.js, Express, APIs REST
 - Banco de dados: MySQL / SQL
-- Autenticação: JWT
+- Autenticação: JWT, Bcrypt
 - CRUD completo de aplicações
   
 Buscando oportunidade de estágio para crescer na área de desenvolvimento
